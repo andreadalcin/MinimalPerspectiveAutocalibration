@@ -1,0 +1,285 @@
+{
+    "configs": {
+        "00000": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "s"
+        },
+        "00001": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "00010": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "00011": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "00100": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "s"
+        },
+        "00101": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "00110": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "00111": {
+            "fxi": "fxi",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "01000": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "s"
+        },
+        "01001": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "01010": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "01011": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "01100": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "s"
+        },
+        "01101": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "01110": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "01111": {
+            "fxi": "fxi",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "10000": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "s"
+        },
+        "10001": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "10010": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "10011": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "10100": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "s"
+        },
+        "10101": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "10110": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "10111": {
+            "fxi": "one",
+            "fyi": "fyi",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "11000": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "s"
+        },
+        "11001": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "11010": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "11011": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "11100": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "s"
+        },
+        "11101": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "11110": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "11111": {
+            "fxi": "one",
+            "fyi": "one",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+
+        "ffuvs": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "s"
+        },
+        "ffuv0": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "cx",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "ffu0s": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "ffu00": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "cx",
+            "cy": "zer0",
+            "s": "zer0"
+        },
+        "ff0vs": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "s"
+        },
+        "ff0v0": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "zer0",
+            "cy": "cy",
+            "s": "zer0"
+        },
+        "ff00s": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "s"
+        },
+        "ff000": {
+            "fxi": "fxi",
+            "fyi": "fxi",
+            "cx": "zer0",
+            "cy": "zer0",
+            "s": "zer0"
+        }
+    }
+}
